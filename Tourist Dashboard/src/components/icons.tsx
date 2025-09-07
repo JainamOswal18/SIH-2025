@@ -18,7 +18,11 @@ import {
   Timer,
   Route,
   Activity,
-  UserCheck
+  UserCheck,
+  MessageCircle,
+  Bot,
+  Mic,
+  PanelRightOpen,
 } from 'lucide-react';
 
 export const Icons = {
@@ -42,4 +46,8 @@ export const Icons = {
   Route,
   Activity,
   UserCheck,
+  MessageCircle,
+  Bot,
+  Mic,
+  PanelRightOpen,
 };
